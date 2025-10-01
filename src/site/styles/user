@@ -1,0 +1,51 @@
+/* Global Styles */
+* {
+  color: #d7be69;
+}
+
+body {
+  background-color: #120b0d;
+  color: #d7be69;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #d7be69;
+}
+
+/* Paragraphs */
+p {
+  color: #d7be69;
+}
+
+/* Links */
+a {
+  color: #d7be69;
+}
+
+/* Lists */
+li {
+  color: #d7be69;
+}
+
+/* Span elements */
+span {
+  color: #d7be69;
+}
+
+/* Div elements */
+div {
+  color: #d7be69;
+}
+
+/* Optional: Add some contrast for better readability */
+body {
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0.5em;
+}
